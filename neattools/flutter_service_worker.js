@@ -4,10 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "917a11a91da7b29ac06fbf2385a6be6f",
-"index.html": "e5a092ad8debb592cbfd7ebf6dd339f4",
-"/": "e5a092ad8debb592cbfd7ebf6dd339f4",
+"index.html": "3c934a0de6933c7355d9075bf0f7dd12",
+"/": "3c934a0de6933c7355d9075bf0f7dd12",
 "styles.css": "61fe14f0eacb2eb60b25bf5d4e907d12",
-"main.dart.js": "a32af3065ca75393385039890ecadaa9",
+"main.dart.js": "e829c06773e8394dc274b5d436f6a3eb",
 "img/Neat-Tools-Banner-2.png": "326df15f80cd7f7057edd44a9828e0d7",
 "favicon.png": "feb10f3fdc84aa896de1a5834c0b243d",
 "icons/Icon-192.png": "c913da70ec823fb227e3b5de0a7d8bd3",
@@ -20,11 +20,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/images/cnc-cincom.jpg": "2a3048fb7c45080aa98581a6b784e26d",
 "assets/assets/images/dark-stone-surface.jpg": "78c0f92b78d17c38fd6c1574792f66cd",
-"assets/assets/images/cincom-logo.png": "ff8c13fdd5a64d6d81c1b79b78de6665",
-"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
-"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
-"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
-"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
+"assets/assets/images/cincom-logo.png": "ff8c13fdd5a64d6d81c1b79b78de6665"
 };
 
 // The application shell files that are downloaded before a service worker can
