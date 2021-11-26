@@ -1,11 +1,11 @@
 {
-    "name": "littlepeanutland",
-    "short_name": "littlepeanutland",
+    "name": "LittlePeanutLand",
+    "short_name": "LittlePeanutLand",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#FFFFFF",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Little Peanut Recipe",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
