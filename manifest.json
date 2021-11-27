@@ -1,6 +1,6 @@
 {
-    "name": "LittlePeanutLand",
-    "short_name": "LittlePeanutLand",
+    "name": "LittlePeanut",
+    "short_name": "LittlePeanut",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
