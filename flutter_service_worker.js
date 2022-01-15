@@ -3,30 +3,37 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "047a1c7b24918aa76e9142bf6f788879",
-"index.html": "1a4e5095506299672057b83f2eea07fb",
-"/": "1a4e5095506299672057b83f2eea07fb",
+  "version.json": "f2f758bcf807b94befa6b4936674521c",
+"index.html": "e49112a34f7ecff524628ffebf33129b",
+"/": "e49112a34f7ecff524628ffebf33129b",
 "styles.css": "31e47030e7a8f9e4ea4c41e3d62d5d2f",
-"main.dart.js": "7a4d19e1825f7158f92963d4a6480875",
+"main.dart.js": "30602526e55636a9ebd79ce712c1fb4b",
 "icons/favicon.ico": "b503c9d3c95e1d2d220b7496bddfddc7",
 "icons/Icon-192.png": "36cdd341ca58807b741e7bb1c4f2a692",
 "icons/Icon-maskable-192.png": "36cdd341ca58807b741e7bb1c4f2a692",
 "icons/Icon-maskable-512.png": "fabbb8498860a743bd8d5813bc48c71f",
 "icons/Icon-512.png": "fabbb8498860a743bd8d5813bc48c71f",
 "manifest.json": "d30e37d8670cf37420c235e04558410c",
-"assets/AssetManifest.json": "83f75b00d474fd100df332bc0ee98a65",
-"assets/NOTICES": "0f3a1cf7c5723e913282555984187fbb",
+"assets/AssetManifest.json": "41a91a3847dc36e86ad9d7ef8cb2564c",
+"assets/NOTICES": "459fdc55854b48e963978e8dd2e98e4a",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/images/lineman-logo.jpeg": "b44ec2f3732371fa008ab5e943e029ed",
 "assets/assets/images/flutter_logo.png": "478970b138ad955405d4efda115125bf",
 "assets/assets/images/2.0x/lineman-logo.jpeg": "0842889290e95f9307d85db01db45f67",
 "assets/assets/images/2.0x/flutter_logo.png": "4efb9624185aff46ca4bf5ab96496736",
+"assets/assets/images/2.0x/menu.png": "c58ec4b311ef940c75c2e1be73e742da",
 "assets/assets/images/2.0x/robinhood-logo.jpeg": "72832417aa97820a504533c1b08b4681",
 "assets/assets/images/3.0x/lineman-logo.jpeg": "5f1755667fe125612c30e995226d0c4c",
 "assets/assets/images/3.0x/flutter_logo.png": "b8ead818b15b6518ac627b53376b42f2",
+"assets/assets/images/3.0x/menu.png": "1a4bfc14182cca1c251f33140d4ca67d",
 "assets/assets/images/3.0x/robinhood-logo.jpeg": "68298ea0c383bf7c0170ead3ef2c1267",
-"assets/assets/images/robinhood-logo.jpeg": "238fffdf3651dacdb5b88649a9fe2a1e"
+"assets/assets/images/menu.png": "6b291f10ed29265f34178b3d435f160d",
+"assets/assets/images/robinhood-logo.jpeg": "238fffdf3651dacdb5b88649a9fe2a1e",
+"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
+"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
+"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
+"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
 };
 
 // The application shell files that are downloaded before a service worker can
